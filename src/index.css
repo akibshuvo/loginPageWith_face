@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --mainColor: #FCB800;
+    --buttonHover: rgb(236, 174, 3);
+    --textColor: #1F1F1F;
+    --borderColor: #B8B8B8;
+    --placeHoderColor: #9C9C9C;
+    --shareColor: #41a9e9;
+    --priceColor: #B12704;
+    --errorColor: #ff0000be;
+    --iconColor: #5D6D7E;
+    --bgColor: #30776c;
+    --blueWhite: #f2f4f8;
+    --btnColor: #2e9a7a;
+    
+  }
